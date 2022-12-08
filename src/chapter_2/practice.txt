@@ -1,3 +1,4 @@
 we committed first each line
 
 line 1
+line 2
